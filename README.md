@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobita3302
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in JAVA,Android Studio & Data Science
+- 🌱 I’m currently learning JAVA,Python & Android Studio.
 
 <!---
 nobita3302/nobita3302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
